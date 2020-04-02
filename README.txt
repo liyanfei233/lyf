@@ -1,4 +1,4 @@
-LabWinner配置说明
+﻿LabWinner配置说明  --添加了一些说明
 1、	版本配置
 /web/pom.xml		第8行		<version>1.0.0-SNAPSHOT</version>
 /web/src/main/resources/static/js/main.js	第11行	version: '1.0.0'
